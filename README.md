@@ -1,5 +1,3 @@
-# uas-mafi-iin-solihin-Adhi
-Repositoty untuk UAS MAFI
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,4 +8,4 @@ Repositoty untuk UAS MAFI
   <h2>NIM: [252505033]</h2>
   <p>Ini halaman UAS MAFI saya.</p>
 </body>
-</html>
+</h
